@@ -1,0 +1,10 @@
+C:\Users\Owais\source\repos\speechrecognition\speechrecognition\bin\Debug\speechrecognition.exe.config
+C:\Users\Owais\source\repos\speechrecognition\speechrecognition\bin\Debug\speechrecognition.exe
+C:\Users\Owais\source\repos\speechrecognition\speechrecognition\bin\Debug\speechrecognition.pdb
+C:\Users\Owais\source\repos\speechrecognition\speechrecognition\obj\Debug\speechrecognition.csprojAssemblyReference.cache
+C:\Users\Owais\source\repos\speechrecognition\speechrecognition\obj\Debug\speechrecognition.Form1.resources
+C:\Users\Owais\source\repos\speechrecognition\speechrecognition\obj\Debug\speechrecognition.Properties.Resources.resources
+C:\Users\Owais\source\repos\speechrecognition\speechrecognition\obj\Debug\speechrecognition.csproj.GenerateResource.cache
+C:\Users\Owais\source\repos\speechrecognition\speechrecognition\obj\Debug\speechrecognition.csproj.CoreCompileInputs.cache
+C:\Users\Owais\source\repos\speechrecognition\speechrecognition\obj\Debug\speechrecognition.exe
+C:\Users\Owais\source\repos\speechrecognition\speechrecognition\obj\Debug\speechrecognition.pdb
